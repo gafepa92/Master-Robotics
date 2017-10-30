@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificacio, segon usuari
+=======
+aquest archiu l'ha modificat dev1 
+>>>>>>> d5cb16f4d7fd75958d55ed051bd07e3bd8c0a630
